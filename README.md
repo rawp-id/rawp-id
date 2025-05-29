@@ -3,9 +3,6 @@
 ## 👨‍💻 About Me
 
 🚀 Tech Lead | 💻 Full-Stack Developer | 🧠 Innovator  
-🎯 Founder & CEO at **Kriingg**
-
-I’m a passionate developer who enjoys building useful, scalable, and impactful digital products. I lead technical innovation at Kriingg, where we develop custom platforms, hybrid super apps, and technology solutions for modern businesses
 
 ## 🧠 Tech Stack & Tools I Use
 
@@ -54,7 +51,6 @@ I’m a passionate developer who enjoys building useful, scalable, and impactful
 
 ## 📬 Let’s Connect!
 
-- 🌐 [kriingg.com](#) *(coming soon)*
 - 💼 [LinkedIn](https://linkedin.com/in/rifky-aryo)
 - 🧪 Follow my work on GitHub and explore how I build & ship!
 
