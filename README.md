@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-🚀 Tech Lead | 💻 Full-Stack Developer | 🧠 Innovator  
+🚀 Tech Lead | 💻 Software Engineer | 🧠 Innovator  
 
 ## 🧠 Tech Stack & Tools I Use
 
