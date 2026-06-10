@@ -1,12 +1,12 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" /> Hi, I'm Rifky Aryo
+# Hi, I'm Rifky Aryo
 
-Backend Engineer & Runtime Systems Enthusiast from Indonesia.
+Backend Engineer & Runtime Systems Enthusiast.
 
 I enjoy building scalable systems, developer tools, and high-performance backend architecture.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22" /> Focus Areas
+## Focus Areas
 
 * Building async & high-performance backend systems
 * Runtime architecture, fibers, event loops, and execution models
@@ -15,12 +15,12 @@ I enjoy building scalable systems, developer tools, and high-performance backend
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22" /> Core Stack
+## Core Stack
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,go,nodejs,laravel,postgres,redis,sqlite" />
+  <img src="https://skillicons.dev/icons?i=php,go,nodejs,laravel,rust,postgres,redis,sqlite" />
 </p>
 
 ### Systems & Infrastructure
@@ -32,24 +32,20 @@ I enjoy building scalable systems, developer tools, and high-performance backend
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,ts" />
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
 </p>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" /> Current Projects
+## Current Projects
 
 ### Nexph
 
 Experimental PHP runtime & framework focused on performance, async execution, and developer experience.
 
-### Kriingg
-
-Hyperlocal commerce platform connecting UMKM, food vendors, and delivery services.
-
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" /> Connect
+## Connect
 
 * LinkedIn: [rifky-aryo](https://linkedin.com/in/rifky-aryo)
 
