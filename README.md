@@ -37,14 +37,6 @@ I enjoy building scalable systems, developer tools, and high-performance backend
 
 ---
 
-## Current Projects
-
-### Nexph
-
-Experimental PHP runtime & framework focused on performance, async execution, and developer experience.
-
----
-
 ## Connect
 
 * LinkedIn: [rifky-aryo](https://linkedin.com/in/rifky-aryo)
